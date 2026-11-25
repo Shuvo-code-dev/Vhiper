@@ -2,7 +2,7 @@
 
 A fast, lightweight, **single-file** web tool to validate, normalize, deduplicate, and detect mobile network operators for Bangladeshi phone numbers—with zero external dependencies.
 
-> **Live Demo:** `https://<your-github-username>.github.io/bd-phone-helper/` *(Enable GitHub Pages in repository settings to activate)*
+> **Live Demo:** `https://vhiper.vercel.app/`
 
 ## Features
 
