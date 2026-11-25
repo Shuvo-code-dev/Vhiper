@@ -20,7 +20,7 @@ A fast, lightweight, **single-file** web tool to validate, normalize, deduplicat
 
 ## Quick Start
 
-1. Download `index.html` (or `bd-phone-helper.html`).
+1. Download `index.html`.
 2. Double-click the file to open it in any modern web browser.
 3. Paste your phone number list and click **Process Numbers**.
 
